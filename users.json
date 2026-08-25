@@ -1,0 +1,82 @@
+{
+    "Priyanka": {
+        "password": "Priyanka",
+        "role": "User",
+        "userid": "user1"
+    },
+    "Sahana": {
+        "password": "Sahana",
+        "role": "User",
+        "userid": "user2"
+    },
+    "admin1": {
+        "password": "admin1",
+        "role": "Admin",
+        "userid": "admin"
+    },
+    "Sneha": {
+        "password": "Sneha",
+        "role": "User",
+        "userid": "user3"
+    },
+    "Hitha": {
+        "password": "Hitha",
+        "role": "User",
+        "userid": "user4"
+    },
+    "Jaanu": {
+        "password": "Jaanu",
+        "role": "User",
+        "userid": "user5"
+    },
+    "Rekha": {
+        "password": "Rekha",
+        "role": "User",
+        "userid": "user6"
+    },
+    "Roopa": {
+        "password": "Roopa",
+        "role": "User",
+        "userid": "user7"
+    },
+    "Keerthana": {
+        "password": "Keerthana",
+        "role": "User",
+        "userid": "user8"
+    },
+    "Sinchana": {
+        "password": "Sinchana",
+        "role": "User",
+        "userid": "user9"
+    },
+    "Anu": {
+        "password": "Anu",
+        "role": "User",
+        "userid": "user10"
+    },
+    "Prathima": {
+        "password": "Prathima",
+        "role": "User",
+        "userid": "user11"
+    },
+    "Vinutha": {
+        "password": "Vinutha",
+        "role": "User",
+        "userid": "user12"
+    },
+    "Suma": {
+        "password": "Suma",
+        "role": "User",
+        "userid": "user13"
+    },
+    "Bindu": {
+        "password": "Bindu",
+        "role": "User",
+        "userid": "user14"
+    },
+    "Anusha": {
+        "password": "Anusha",
+        "role": "User",
+        "userid": "user15"
+    }
+}
