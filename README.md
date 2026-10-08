@@ -10,8 +10,8 @@ This project was developed during the AICW program supported by Microsoft and SA
 
 ## Team Members
 
-**- SAHANA H S
-- PRIYANKA S**
+- **SAHANA H S**
+- **PRIYANKA S**
 
 ## Technologies Used
 
